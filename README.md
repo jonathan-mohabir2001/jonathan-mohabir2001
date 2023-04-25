@@ -3,7 +3,7 @@
 
 <p align ="left"> 
   
-    I am a final year computer programming student with the following technical skills: 
+    General Application / Software Developer
    <p align="center">
 <a href="https://nodejs.org/en/" target="__blank"> <img alt="Node Js Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> </a> 
 <a href="https://expressjs.com/" target="__blank"> <img alt="Express Js Badge" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> </a> 
